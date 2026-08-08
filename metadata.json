@@ -1,0 +1,6 @@
+{
+  "name": "CivicPulse",
+  "description": "CivicPulse: Intelligent Citizen Services & Scheme Discovery Platform",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
